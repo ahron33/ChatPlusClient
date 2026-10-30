@@ -53,6 +53,7 @@ ChatPlus/
 - Visual Studio with the .NET desktop development workload (the project targets .NET Framework and uses `System.Management`)
 - [FluentFTP](https://www.nuget.org/packages/FluentFTP) 55.1.0 (included in `packages/`)
 - A web host with FTP access and a public web folder
+- ChatPlusServer running against the same host
 
 ## Getting started
 
