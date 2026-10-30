@@ -2,7 +2,7 @@
 
 A small Windows chat client written in C# (WinForms, .NET Framework). It has no chat server of its own: messages travel through plain text files on a normal web host. The client uploads files over FTP with [FluentFTP](https://github.com/robinrodricks/FluentFTP) and reads the shared chat over HTTP.
 
-![Chat window](docs/screenshots/chat.png)
+<img width="792" height="581" alt="Screenshot_203" src="https://github.com/user-attachments/assets/89c93cf1-02ae-472c-8bbc-e57c65495cd9" />
 
 ## Features
 
@@ -14,7 +14,8 @@ A small Windows chat client written in C# (WinForms, .NET Framework). It has no 
 - **Bold nicknames:** your nickname is converted to Unicode bold sans-serif letters when you send a message, for example 𝗗𝗮𝗻.
 - **No accounts or passwords for users.** Each computer is identified by its motherboard UUID.
 
-![Nickname screen](docs/screenshots/nickname.png)
+<img width="389" height="428" alt="Screenshot_201" src="https://github.com/user-attachments/assets/9e73a696-ca07-4b05-9b0a-fb1925959764" />
+
 
 ## How it works
 
