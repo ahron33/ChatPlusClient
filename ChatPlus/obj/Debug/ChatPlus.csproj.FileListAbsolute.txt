@@ -1,0 +1,16 @@
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.csproj.AssemblyReference.cache
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.MainForm.resources
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.Properties.Resources.resources
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.csproj.GenerateResource.cache
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.csproj.CoreCompileInputs.cache
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\bin\Debug\ChatPlus.exe.config
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\bin\Debug\ChatPlus.exe
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\bin\Debug\ChatPlus.pdb
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.exe
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.pdb
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.NickNameForm.resources
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\bin\Debug\FluentFTP.dll
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\bin\Debug\FluentFTP.xml
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.csproj.Up2Date
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.Goto.resources
+C:\Users\Yatim\source\repos\ChatPlus\ChatPlus\obj\Debug\ChatPlus.exe.config
